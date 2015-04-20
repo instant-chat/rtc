@@ -1,8 +1,8 @@
 {
-  "name": "base-node",
-  "version": "0.0.4",
-  "description": "Base Node.JS Development Environment",
-  "repository": "https://github.com/blakelapierre/base-node",
+  "name": "instant-chat-rtc",
+  "version": "0.0.1",
+  "description": "WebRTC Signalling and Room Management",
+  "repository": "https://github.com/instant-chat/rtc",
   "main": "index.js",
   "author": "Blake La Pierre",
   "license": "MIT",
@@ -29,5 +29,10 @@
     "traceur": "0.0.88",
     "traceur-runtime": "0.0.59",
     "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "es-emitter": "0.0.2",
+    "lodash": "^3.7.0",
+    "socket.io": "^1.3.5"
   }
 }

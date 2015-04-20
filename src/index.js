@@ -1,1 +1,1 @@
-console.log('Now run you some ECMAScript 2015!');
+module.exports = require('rtc.js');
