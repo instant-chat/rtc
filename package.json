@@ -3,7 +3,7 @@
   "version": "0.0.2",
   "description": "WebRTC Signalling and Room Management",
   "repository": "https://github.com/instant-chat/rtc",
-  "main": "index.js",
+  "main": ".dist/index.js",
   "author": "Blake La Pierre",
   "license": "MIT",
   "devDependencies": {
